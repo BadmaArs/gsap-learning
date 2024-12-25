@@ -1,9 +1,3 @@
-# React + Vite
+# GSAP learning
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-# RTG
+Этот проект — учебная работа, в которой я использовал **GSAP** для анимаций и **React** + **Vite** для создания интерфейса, схожего с сайтом Apple. Целью было изучение возможностей анимаций с использованием GSAP и практическое применение в реальном проекте.
